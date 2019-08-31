@@ -49,13 +49,13 @@
     <p>En este parte como podemos ver procedemos a Asignar las Materias a los profesores donde un profesores puede
         tener varias materias, de igual forma tenemos una consulta
         que nos dira cual es el profesores asignado y sus materias correspondientes <br></p>
-    <p> <img src="https://raw.githubusercontent.com/pedro-chal/POO-ITLA/master/vistas/Asignaciones-de-Materias-A-Profesores.png"
+    <p> <img src="https://raw.githubusercontent.com/pedro-chal/POO-ITLA/master/vistas/Consultar-Materias-Impartidas-Profesor.png"
             alt="" srcset=""></p>
     <hr>
     <h1>Asignar Materias a Profesor</h1>
     <p>En este parte como podemos ver podemos realizar la consultar y verificar las materias que tienen asignadas cada
         Profesor que pertenecen <br></p>
-    <p> <img src="https://raw.githubusercontent.com/pedro-chal/POO-ITLA/master/vistas/Consultar-Materias-Impartidas-Profesor.png"
+    <p> <img src="https://raw.githubusercontent.com/pedro-chal/POO-ITLA/master/vistas/Asignaciones-de Materias-A-Profesores.png"
             alt="" srcset=""></p>
     <hr>
     <h1>Consultar Grupos de estudiantes</h1>
